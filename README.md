@@ -24,8 +24,7 @@
 ---
 
 ## 🌟 Featured Projects
-- [**Bug Bounty Write-ups**](https://github.com/darkstarbdx/bug-bounty-writeups) 📜: A collection of my bug bounty reports and findings.
-- [**Security Tools**](https://github.com/darkstarbdx/security-tools) 🛠️: Useful scripts and tools I’ve developed for security assessments.
+- [**"Neptune" Series Tools**](https://github.com/stars/darkstarbdx/lists/neptune-series-tools) 📜: A collection of tools for bug hunters♥.
 
 ---
 
